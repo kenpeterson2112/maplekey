@@ -1,0 +1,45 @@
+{
+  "grade": 6,
+  "subject": "science",
+  "topic": "cells",
+  "teacher": "Mr. Patel",
+  "intro": "I'm Mr. Patel. Let's plan a 6th grade lesson where students gather evidence that living things are made of cells.",
+  "beats": [
+    {
+      "field": "title",
+      "narration": "Starting from the question \"is it alive?\" makes cells the evidence, not just vocabulary.",
+      "text": "Is It Alive? Looking for Cells"
+    },
+    {
+      "field": "standard",
+      "narration": "This standard asks students to investigate and provide evidence that living things are made of cells.",
+      "text": "MS-LS1-1"
+    },
+    {
+      "field": "objective",
+      "narration": "\"Cite evidence\" keeps it a science practice lesson, not a labeling lesson.",
+      "text": "Students will be able to use a microscope to observe cells in different samples and cite evidence that living things are made of cells."
+    },
+    {
+      "field": "warmUp",
+      "narration": "The cork is a great discussion piece, since it was once alive.",
+      "text": "Mystery samples: a cork, an onion, a rock, and a leaf. Students predict which are or were alive and explain how they could tell."
+    },
+    {
+      "field": "instruction",
+      "narration": "Rushing the technique leads to frustration, so I model it carefully.",
+      "text": "Model microscope technique: preparing a wet mount, focusing from low to high power, and sketching accurately. Show Hooke's cork drawing for historical context."
+    },
+    {
+      "field": "activity",
+      "narration": "Including sand gives them a non-living comparison.",
+      "text": "Stations: students view onion skin, cheek cells (prepared slides), elodea leaf, and sand. They sketch each and record \"cells: yes/no.\""
+    },
+    {
+      "field": "exitTicket",
+      "narration": "Their own sketches become the evidence in their answer.",
+      "text": "Which samples had cells? Use your sketches as evidence to explain whether all living things are made of cells."
+    }
+  ],
+  "outro": "Predict, model technique, observe, argue from evidence. Your turn."
+}

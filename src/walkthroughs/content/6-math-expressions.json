@@ -1,0 +1,45 @@
+{
+  "grade": 6,
+  "subject": "math",
+  "topic": "expressions",
+  "teacher": "Ms. Rivera",
+  "intro": "I'm Ms. Rivera. Today we're planning an intro to algebraic expressions for 6th graders — the first time letters show up in math for a lot of them.",
+  "beats": [
+    {
+      "field": "title",
+      "narration": "Framing variables as \"mystery numbers\" makes the first exposure feel like a game.",
+      "text": "Mystery Numbers: Writing Expressions"
+    },
+    {
+      "field": "standard",
+      "narration": "This covers writing, reading, and evaluating expressions where letters stand for numbers.",
+      "text": "6.EE.A.2"
+    },
+    {
+      "field": "objective",
+      "narration": "Two skills, write and evaluate, and both show up in the exit ticket.",
+      "text": "Students will be able to write expressions from verbal descriptions and evaluate them for given values of the variable."
+    },
+    {
+      "field": "warmUp",
+      "narration": "The puzzle naturally creates the need for a symbol that stands for \"any number.\"",
+      "text": "Number puzzle: \"Think of a number, add 5, double it.\" Students share results and we notice a pattern in how the answers relate to the starting numbers."
+    },
+    {
+      "field": "instruction",
+      "narration": "I call out the \"less than\" trap directly because it's the most common error I see.",
+      "text": "Translate phrases into expressions with a word bank (sum, product, less than, quotient). Model the tricky ones: \"5 less than n\" is n − 5, not 5 − n. Then evaluate 2n + 3 for n = 4."
+    },
+    {
+      "field": "activity",
+      "narration": "The card game gives lots of repetitions quickly, and the extension keeps fast finishers thinking.",
+      "text": "Expression matching card game: students match verbal phrases, expressions, and values in groups of three. Early finishers create their own cards for the class."
+    },
+    {
+      "field": "exitTicket",
+      "narration": "One question checks both halves of the objective.",
+      "text": "Write an expression for \"3 more than twice a number,\" then evaluate it when the number is 7."
+    }
+  ],
+  "outro": "Puzzle, model, practice, check. Now it's your turn to plan."
+}

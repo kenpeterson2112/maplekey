@@ -1,0 +1,45 @@
+{
+  "grade": 6,
+  "subject": "science",
+  "topic": "water-cycle",
+  "teacher": "Mr. Patel",
+  "intro": "Hi, I'm Mr. Patel, 6th grade science. Let's plan a lesson on the water cycle that goes beyond the textbook diagram.",
+  "beats": [
+    {
+      "field": "title",
+      "narration": "I title lessons with a phenomenon question students can relate to.",
+      "text": "Where Does the Puddle Go? The Water Cycle"
+    },
+    {
+      "field": "standard",
+      "narration": "This standard asks students to model the cycling of water driven by sunlight and gravity.",
+      "text": "MS-ESS2-4"
+    },
+    {
+      "field": "objective",
+      "narration": "The key idea is the energy source, which the textbook diagram usually leaves out.",
+      "text": "Students will be able to develop a model showing how water changes state and moves through the water cycle, and identify the energy source driving each process."
+    },
+    {
+      "field": "warmUp",
+      "narration": "Their first ideas become a baseline we come back to at the end.",
+      "text": "Show a time-lapse of a puddle disappearing on a sunny day. Students write where they think the water went."
+    },
+    {
+      "field": "instruction",
+      "narration": "The demo shows condensation and \"rain\" happening on their desks.",
+      "text": "Walk through evaporation, condensation, and precipitation, labeling each with its energy source: the sun heats the water, and gravity pulls it back down. Demo: a bowl of hot water covered with plastic wrap and ice on top."
+    },
+    {
+      "field": "activity",
+      "narration": "The bags keep running all week, so they can watch the cycle over several days.",
+      "text": "Groups build a water cycle model in a zip bag taped to the window and draw it, labeling each process and whether energy is added or released."
+    },
+    {
+      "field": "exitTicket",
+      "narration": "Revising their own first idea shows growth clearly.",
+      "text": "Revise your answer to \"Where did the puddle go?\" using at least three water cycle terms."
+    }
+  ],
+  "outro": "Phenomenon, model, revise. That's the arc. Now you try."
+}

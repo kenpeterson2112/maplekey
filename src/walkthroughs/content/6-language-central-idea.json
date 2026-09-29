@@ -1,0 +1,45 @@
+{
+  "grade": 6,
+  "subject": "language",
+  "topic": "central-idea",
+  "teacher": "Ms. Alvarez",
+  "intro": "I'm Ms. Alvarez. Let's plan a 6th grade lesson on determining the central idea of an informational text.",
+  "beats": [
+    {
+      "field": "title",
+      "narration": "Students know the phrase \"big idea,\" so I use it before introducing \"central idea.\"",
+      "text": "What's the Big Idea?"
+    },
+    {
+      "field": "standard",
+      "narration": "This standard asks students to determine a central idea and how it is conveyed through details.",
+      "text": "RI.6.2"
+    },
+    {
+      "field": "objective",
+      "narration": "Central idea and supporting details are always taught together.",
+      "text": "Students will be able to determine the central idea of an informational article and identify three supporting details."
+    },
+    {
+      "field": "warmUp",
+      "narration": "The table metaphor is simple and sticks.",
+      "text": "Show a table (the central idea) with legs (details). \"What happens if you remove a leg?\""
+    },
+    {
+      "field": "instruction",
+      "narration": "The \"not stated directly\" point prevents students from just copying the first sentence.",
+      "text": "Model with a short article: read, annotate key details, and look for what they all have in common. Show how the central idea is often not stated directly."
+    },
+    {
+      "field": "activity",
+      "narration": "Comparing with another pair shows there's more than one good way to phrase it.",
+      "text": "Partners read a new article, annotate details, and write a central idea statement. Then they compare with another pair and revise."
+    },
+    {
+      "field": "exitTicket",
+      "narration": "This directly matches the objective.",
+      "text": "What is the central idea of today's article? List two details that support it."
+    }
+  ],
+  "outro": "Metaphor, model, practice, compare. Your turn."
+}

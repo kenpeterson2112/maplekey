@@ -1,0 +1,45 @@
+{
+  "grade": 7,
+  "subject": "language",
+  "topic": "context-clues",
+  "teacher": "Mr. Brooks",
+  "intro": "Mr. Brooks here. Let's plan a vocabulary lesson on using context clues.",
+  "beats": [
+    {
+      "field": "title",
+      "narration": "Detective framing makes figuring out unknown words feel like solving a mystery.",
+      "text": "Word Detectives: Context Clues"
+    },
+    {
+      "field": "standard",
+      "narration": "This standard asks students to use context as a clue to the meaning of a word or phrase.",
+      "text": "L.7.4a"
+    },
+    {
+      "field": "objective",
+      "narration": "Four named types give students a toolkit.",
+      "text": "Students will be able to use four types of context clues (definition, synonym, antonym, example) to determine the meaning of unknown words."
+    },
+    {
+      "field": "warmUp",
+      "narration": "Nonsense words prove that context alone can carry meaning.",
+      "text": "Show a sentence with a nonsense word: \"The glorp was so hungry it ate three sandwiches.\" \"What's a glorp? How do you know?\""
+    },
+    {
+      "field": "instruction",
+      "narration": "Signal words make clues easier to spot.",
+      "text": "Teach each clue type with signal words (such as \"or,\" \"like,\" \"unlike,\" \"for example\"). Model finding the meaning of real unknown words in a passage."
+    },
+    {
+      "field": "activity",
+      "narration": "Checking the dictionary shows how close context can get them.",
+      "text": "Partners go on a word hunt in a challenging article, recording unknown words, the clue type, their guess, and then checking a dictionary."
+    },
+    {
+      "field": "exitTicket",
+      "narration": "This checks both the meaning and the strategy.",
+      "text": "Read a sentence with an unfamiliar word. What does it mean, and which clue type helped you?"
+    }
+  ],
+  "outro": "Nonsense words, toolkit, hunt, check. Your turn."
+}

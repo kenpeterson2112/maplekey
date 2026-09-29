@@ -1,0 +1,45 @@
+{
+  "grade": 8,
+  "subject": "language",
+  "topic": "dialogue",
+  "teacher": "Ms. Kim",
+  "intro": "I'm Ms. Kim. Let's plan a lesson on how dialogue drives a story forward.",
+  "beats": [
+    {
+      "field": "title",
+      "narration": "The title is playful, and the lesson is about how talk moves the story.",
+      "text": "Talk the Talk: Dialogue & Plot"
+    },
+    {
+      "field": "standard",
+      "narration": "This standard asks students to analyze how lines of dialogue propel action, reveal character, or provoke a decision.",
+      "text": "RL.8.3"
+    },
+    {
+      "field": "objective",
+      "narration": "Three functions of dialogue give students a clear lens.",
+      "text": "Students will be able to analyze how specific lines of dialogue propel the action, reveal character, or provoke a decision."
+    },
+    {
+      "field": "warmUp",
+      "narration": "Acting it out makes dialogue come alive.",
+      "text": "Act out a short dialogue from a movie scene. \"What did we learn about these characters just from how they talk?\""
+    },
+    {
+      "field": "instruction",
+      "narration": "The three labels become a shared vocabulary.",
+      "text": "Model analyzing a dialogue-heavy scene, labeling each important line as propel, reveal, or provoke, and explaining why."
+    },
+    {
+      "field": "activity",
+      "narration": "Rewriting a line shows how much a single line can change.",
+      "text": "Pairs choose a key dialogue scene from the class novel, label the lines, and then rewrite one line to change its function."
+    },
+    {
+      "field": "exitTicket",
+      "narration": "This matches the three-part lens directly.",
+      "text": "Choose one line of dialogue from today's reading. Does it propel, reveal, or provoke? Explain."
+    }
+  ],
+  "outro": "Act it, model it, analyze it. Now plan yours."
+}

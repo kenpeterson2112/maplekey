@@ -1,0 +1,45 @@
+{
+  "grade": 8,
+  "subject": "science",
+  "topic": "newtons-laws",
+  "teacher": "Mr. Nakamura",
+  "intro": "I'm Mr. Nakamura, 8th grade physical science. Let's plan an investigation of Newton's second law.",
+  "beats": [
+    {
+      "field": "title",
+      "narration": "The title hints at the relationship students will discover.",
+      "text": "Push Harder: Force, Mass & Motion"
+    },
+    {
+      "field": "standard",
+      "narration": "This standard asks students to plan an investigation showing that motion depends on forces and mass.",
+      "text": "MS-PS2-2"
+    },
+    {
+      "field": "objective",
+      "narration": "Planning the investigation is part of the standard, not just doing it.",
+      "text": "Students will be able to plan and carry out an investigation showing how changes in force and mass affect an object's acceleration."
+    },
+    {
+      "field": "warmUp",
+      "narration": "A prediction commits them to an idea they can test.",
+      "text": "Show two carts: one empty, one loaded with books. \"If I push both with the same force, what happens?\" Students predict and explain."
+    },
+    {
+      "field": "instruction",
+      "narration": "Variables are the backbone of planning an investigation.",
+      "text": "Introduce F = ma conceptually: more force means more acceleration; more mass means less acceleration. Model identifying independent, dependent, and controlled variables."
+    },
+    {
+      "field": "activity",
+      "narration": "Students choose their variable, so there's real ownership of the design.",
+      "text": "Groups use carts, rubber bands (force), and washers (mass). They design a test that changes one variable, collect data, and graph the results."
+    },
+    {
+      "field": "exitTicket",
+      "narration": "Citing their own data ties the conclusion to evidence.",
+      "text": "Based on your data, what happens to acceleration when mass increases and force stays the same? Cite a number from your data."
+    }
+  ],
+  "outro": "Predict, frame, investigate, conclude. Your turn."
+}

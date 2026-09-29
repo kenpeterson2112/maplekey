@@ -1,0 +1,45 @@
+{
+  "grade": 7,
+  "subject": "math",
+  "topic": "integers",
+  "teacher": "Mr. Okafor",
+  "intro": "I'm Mr. Okafor. Integer operations can be confusing, so let's plan a 7th grade lesson that uses a model students can picture.",
+  "beats": [
+    {
+      "field": "title",
+      "narration": "The balloon metaphor gives students a picture: add hot air to go up, add sandbags to go down.",
+      "text": "Hot Air Balloons: Adding & Subtracting Integers"
+    },
+    {
+      "field": "standard",
+      "narration": "This standard is about adding and subtracting rational numbers, including on a number line.",
+      "text": "7.NS.A.1"
+    },
+    {
+      "field": "objective",
+      "narration": "The \"explain why\" is the hard part, and it's what the balloon model is for.",
+      "text": "Students will be able to add and subtract integers using a number line and explain why subtracting a negative is the same as adding a positive."
+    },
+    {
+      "field": "warmUp",
+      "narration": "Temperature is a familiar context that uses a number line naturally.",
+      "text": "Temperature changes: \"It was −3°F at dawn and rose 8 degrees. What's the temperature now?\" Students solve on a vertical number line."
+    },
+    {
+      "field": "instruction",
+      "narration": "Students can picture \"removing a sandbag\" and connect it to subtracting a negative.",
+      "text": "Introduce the balloon model: hot air = +1, sandbags = −1. Model adding and removing each. Removing sandbags makes the balloon go up, so subtracting a negative means going up."
+    },
+    {
+      "field": "activity",
+      "narration": "Counters give a second model that backs up the balloon picture.",
+      "text": "Partner game with two-color counters: draw expression cards, model them with counters, and record the equation. Pairs race to 10 correct cards."
+    },
+    {
+      "field": "exitTicket",
+      "narration": "I ask for the explanation to check understanding, not just the rule.",
+      "text": "Solve −4 − (−6) and explain your answer with the balloon model or counters."
+    }
+  ],
+  "outro": "One strong model, used throughout. Your turn to plan."
+}

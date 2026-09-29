@@ -1,0 +1,45 @@
+{
+  "grade": 8,
+  "subject": "science",
+  "topic": "natural-selection",
+  "teacher": "Mr. Nakamura",
+  "intro": "I'm Mr. Nakamura. Let's plan a hands-on simulation lesson on natural selection.",
+  "beats": [
+    {
+      "field": "title",
+      "narration": "The simulation's central tool, the beaks, is right in the title.",
+      "text": "Survival of the Fittest Beaks"
+    },
+    {
+      "field": "standard",
+      "narration": "This standard asks students to explain how genetic variation leads to some individuals surviving and reproducing more.",
+      "text": "MS-LS4-4"
+    },
+    {
+      "field": "objective",
+      "narration": "\"Over generations\" is essential; this is about populations, not individuals.",
+      "text": "Students will be able to explain how variation in traits leads to differences in survival and reproduction, causing populations to change over generations."
+    },
+    {
+      "field": "warmUp",
+      "narration": "Darwin's finches connect to the historical story.",
+      "text": "Show photos of Galápagos finches with different beaks. \"Why might these birds have such different beaks?\""
+    },
+    {
+      "field": "instruction",
+      "narration": "The \"trying to adapt\" misconception is persistent, so I address it head-on.",
+      "text": "Explain the four parts of natural selection: variation, inheritance, overproduction, and differential survival. Correct the misconception that individuals \"try\" to adapt."
+    },
+    {
+      "field": "activity",
+      "narration": "Graphing the population shift over rounds makes change over generations visible.",
+      "text": "Beak simulation: students get a \"beak\" (tweezers, spoon, clothespin, or chopsticks) and gather \"food\" (beans, rice, marbles) for 3 rounds. Low gatherers \"die\" and switch to a more successful beak. Graph the population over rounds."
+    },
+    {
+      "field": "exitTicket",
+      "narration": "Their own data becomes the evidence.",
+      "text": "Using your graph, explain why the population of spoon beaks changed. Use the words \"variation\" and \"survive.\""
+    }
+  ],
+  "outro": "Photos, framework, simulation, graph. Now you plan."
+}

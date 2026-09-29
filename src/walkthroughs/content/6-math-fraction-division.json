@@ -1,0 +1,45 @@
+{
+  "grade": 6,
+  "subject": "math",
+  "topic": "fraction-division",
+  "teacher": "Ms. Rivera",
+  "intro": "Hi, I'm Ms. Rivera. Dividing fractions is where a lot of 6th graders just memorize a trick — let's plan a lesson that builds meaning instead.",
+  "beats": [
+    {
+      "field": "title",
+      "narration": "The title is the question students will keep asking themselves all period: how many fit?",
+      "text": "How Many Fit? Dividing Fractions"
+    },
+    {
+      "field": "standard",
+      "narration": "This standard asks for interpreting and computing quotients of fractions — interpretation comes first.",
+      "text": "6.NS.A.1"
+    },
+    {
+      "field": "objective",
+      "narration": "I include \"explain what the quotient means\" because that's the part the trick skips.",
+      "text": "Students will be able to interpret and solve fraction division problems using visual models and explain what the quotient means in context."
+    },
+    {
+      "field": "warmUp",
+      "narration": "I start with a whole number divided by a fraction because it's intuitive and gets everyone in.",
+      "text": "\"You have 3 pizzas and each person eats 1/2 a pizza. How many people can you feed?\" Students sketch it before we discuss."
+    },
+    {
+      "field": "instruction",
+      "narration": "Students discover the rule from the models, so it's their idea rather than a trick I handed them.",
+      "text": "Model 2 ÷ 1/3 and 3/4 ÷ 1/8 with fraction bars on the board, asking \"How many 1/8s fit in 3/4?\" each time. Only after three examples, look for a pattern with the class that leads to multiplying by the reciprocal."
+    },
+    {
+      "field": "activity",
+      "narration": "Hands-on stations make the \"how many fit\" meaning concrete, especially for students who struggle with abstract symbols.",
+      "text": "Stations with ribbon, measuring cups, and fraction strips. Each station has a story problem; students model it physically, draw it, then write the equation."
+    },
+    {
+      "field": "exitTicket",
+      "narration": "Asking them to write the story checks meaning, not just computation.",
+      "text": "Write a story problem for 2 ÷ 1/4 and solve it with a drawing."
+    }
+  ],
+  "outro": "Notice how every section keeps coming back to 'how many fit?' Now you plan one."
+}

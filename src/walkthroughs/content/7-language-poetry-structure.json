@@ -1,0 +1,45 @@
+{
+  "grade": 7,
+  "subject": "language",
+  "topic": "poetry-structure",
+  "teacher": "Mr. Brooks",
+  "intro": "I'm Mr. Brooks. Let's plan a lesson on how a poem's form contributes to its meaning.",
+  "beats": [
+    {
+      "field": "title",
+      "narration": "The title connects form and meaning right away.",
+      "text": "Shape & Meaning: Poetry Structure"
+    },
+    {
+      "field": "standard",
+      "narration": "This standard asks students to analyze how a poem's form or structure contributes to its meaning.",
+      "text": "RL.7.5"
+    },
+    {
+      "field": "objective",
+      "narration": "Three specific structural features keep the analysis focused.",
+      "text": "Students will be able to analyze how line breaks, stanzas, and repetition contribute to a poem's meaning."
+    },
+    {
+      "field": "warmUp",
+      "narration": "The side-by-side comparison makes structure visible.",
+      "text": "Show the same short poem written as a paragraph and as a poem. \"Which one has more impact? Why?\""
+    },
+    {
+      "field": "instruction",
+      "narration": "Thinking aloud about the poet's choices models analytical thinking.",
+      "text": "Model annotating a poem for line breaks (where the pauses fall), stanzas (shifts in idea), and repetition (emphasis). Think aloud about why the poet made each choice."
+    },
+    {
+      "field": "activity",
+      "narration": "Rebuilding the poem forces them to think about structure.",
+      "text": "Groups get a poem cut into strips and try to arrange it. Then they compare with the original and discuss the poet's structural choices."
+    },
+    {
+      "field": "exitTicket",
+      "narration": "This keeps the focus on analysis.",
+      "text": "Choose one structural choice in today's poem and explain how it affects the meaning."
+    }
+  ],
+  "outro": "Compare, model, rebuild, analyze. Now plan yours."
+}

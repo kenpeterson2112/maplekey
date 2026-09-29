@@ -1,0 +1,45 @@
+{
+  "grade": 8,
+  "subject": "language",
+  "topic": "theme",
+  "teacher": "Ms. Kim",
+  "intro": "I'm Ms. Kim, 8th grade ELA. Let's plan a lesson on how a theme develops across a text.",
+  "beats": [
+    {
+      "field": "title",
+      "narration": "\"Tracing\" signals that theme develops over the whole text.",
+      "text": "Tracing Theme Across a Story"
+    },
+    {
+      "field": "standard",
+      "narration": "This standard asks students to analyze a theme's development over the course of a text.",
+      "text": "RL.8.2"
+    },
+    {
+      "field": "objective",
+      "narration": "\"A complete sentence\" prevents one-word \"themes\" like \"friendship.\"",
+      "text": "Students will be able to state a theme as a complete sentence and trace how it develops through the characters, setting, and plot."
+    },
+    {
+      "field": "warmUp",
+      "narration": "This makes the difference between a topic and a theme clear.",
+      "text": "\"Friendship\" vs. \"True friends stand by you even when it costs them something.\" \"Which one is a theme? Why?\""
+    },
+    {
+      "field": "instruction",
+      "narration": "The beginning-middle-end chart shows development.",
+      "text": "Model finding a theme in a short story by tracking what the main character learns. Use a chart to show the theme at the beginning, middle, and end."
+    },
+    {
+      "field": "activity",
+      "narration": "Group agreement pushes them to debate and refine the theme.",
+      "text": "Groups read a short story, agree on a theme statement, and trace it at three points in the story with evidence."
+    },
+    {
+      "field": "exitTicket",
+      "narration": "The ending is often where theme is clearest.",
+      "text": "Write a theme statement for today's story and give one piece of evidence from the ending."
+    }
+  ],
+  "outro": "Topic vs. theme, model, trace, check. Now plan yours."
+}

@@ -1,0 +1,45 @@
+{
+  "grade": 7,
+  "subject": "science",
+  "topic": "plate-tectonics",
+  "teacher": "Ms. Johnson",
+  "intro": "Ms. Johnson here. Let's plan a lesson where students become detectives, using evidence that continents move.",
+  "beats": [
+    {
+      "field": "title",
+      "narration": "Framing it as detective work makes students look at the evidence closely.",
+      "text": "Continental Detectives: Plate Tectonics"
+    },
+    {
+      "field": "standard",
+      "narration": "This standard is about analyzing evidence from fossils, rocks, and seafloor features for past plate motions.",
+      "text": "MS-ESS2-3"
+    },
+    {
+      "field": "objective",
+      "narration": "Claim, evidence, reasoning is built right into the objective.",
+      "text": "Students will be able to analyze fossil, rock, and landform evidence to support the claim that continents have moved over time."
+    },
+    {
+      "field": "warmUp",
+      "narration": "They discover the fit themselves, just like Wegener did.",
+      "text": "Give each group paper continents to fit together like a puzzle. \"What do you notice?\""
+    },
+    {
+      "field": "instruction",
+      "narration": "The history shows science as a process of argument and new evidence.",
+      "text": "Present Wegener's evidence: matching fossils (Mesosaurus), matching rock layers, and glacier scratches in tropical areas. Explain why his idea was rejected until seafloor spreading evidence arrived."
+    },
+    {
+      "field": "activity",
+      "narration": "The CER paragraph makes their argument concrete and gradable.",
+      "text": "Groups get evidence cards and map where each fossil or rock type is found on their puzzle continents, then write a claim-evidence-reasoning paragraph."
+    },
+    {
+      "field": "exitTicket",
+      "narration": "This checks both the evidence and the reasoning.",
+      "text": "Name two pieces of evidence that continents were once connected and explain how each supports the claim."
+    }
+  ],
+  "outro": "Puzzle, history, evidence, argument. Your turn."
+}

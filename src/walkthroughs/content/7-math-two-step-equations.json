@@ -1,0 +1,45 @@
+{
+  "grade": 7,
+  "subject": "math",
+  "topic": "two-step-equations",
+  "teacher": "Mr. Okafor",
+  "intro": "Mr. Okafor here. Let's plan a 7th grade lesson on solving two-step equations from real situations.",
+  "beats": [
+    {
+      "field": "title",
+      "narration": "\"Undo it\" is the key strategy, so it goes in the title.",
+      "text": "Undo It: Two-Step Equations"
+    },
+    {
+      "field": "standard",
+      "narration": "This standard asks students to solve word problems leading to equations like px + q = r.",
+      "text": "7.EE.B.4a"
+    },
+    {
+      "field": "objective",
+      "narration": "Checking in context is what makes the answer meaningful, not just a number.",
+      "text": "Students will be able to write and solve two-step equations from word problems and check their solution in context."
+    },
+    {
+      "field": "warmUp",
+      "narration": "Letting them solve informally first shows me their existing strategies.",
+      "text": "\"I bought 3 notebooks and a $4 pen and spent $19. How much was each notebook?\" Students solve any way they like."
+    },
+    {
+      "field": "instruction",
+      "narration": "The bar model bridges their informal thinking and the formal steps.",
+      "text": "Connect student strategies to the equation 3x + 4 = 19. Model undoing in reverse order: subtract 4, then divide by 3. Use a bar model alongside the algebra."
+    },
+    {
+      "field": "activity",
+      "narration": "The escape room adds urgency and gives instant feedback on each answer.",
+      "text": "\"Equation escape room\": 5 locked envelopes, each with a word problem. Solving correctly gives the code to the next envelope."
+    },
+    {
+      "field": "exitTicket",
+      "narration": "A fresh context shows whether they can transfer the skill.",
+      "text": "A gym charges $25 to join and $15 per month. Maya paid $115. Write and solve an equation for the number of months."
+    }
+  ],
+  "outro": "Informal first, then formal, then practice with feedback. Now it's yours."
+}

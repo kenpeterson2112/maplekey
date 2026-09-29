@@ -1,0 +1,45 @@
+{
+  "grade": 7,
+  "subject": "math",
+  "topic": "proportional-relationships",
+  "teacher": "Mr. Okafor",
+  "intro": "I'm Mr. Okafor, and I teach 7th grade math. Let's plan a lesson on proportional relationships.",
+  "beats": [
+    {
+      "field": "title",
+      "narration": "The title poses the question students will answer over and over during the lesson.",
+      "text": "Constant Rates: Is It Proportional?"
+    },
+    {
+      "field": "standard",
+      "narration": "This standard covers recognizing proportional relationships in tables, graphs, and equations.",
+      "text": "7.RP.A.2"
+    },
+    {
+      "field": "objective",
+      "narration": "I name both representations because students need to connect them.",
+      "text": "Students will be able to determine whether a relationship is proportional using a table and a graph, and identify the constant of proportionality."
+    },
+    {
+      "field": "warmUp",
+      "narration": "Money is a strong hook in 7th grade, and one of these is a classic non-example.",
+      "text": "Show two phone plans: Plan A costs $10 per GB; Plan B costs $20 plus $5 per GB. \"Which plan doubles in cost when you double the data?\""
+    },
+    {
+      "field": "instruction",
+      "narration": "I show a non-example alongside the example so students see exactly what breaks proportionality.",
+      "text": "Build a table and graph for each plan. Highlight the two tests: the ratio y/x stays constant, and the graph is a straight line through the origin. Label k = 10 for Plan A."
+    },
+    {
+      "field": "activity",
+      "narration": "Sorting forces them to justify each placement, which is where the real learning happens.",
+      "text": "Card sort: groups sort 12 tables, graphs, and scenarios into proportional vs. not, then find k for the proportional ones."
+    },
+    {
+      "field": "exitTicket",
+      "narration": "Three quick questions, directly aligned to the objective.",
+      "text": "Given a table (2, 6), (5, 15), (8, 24): Is it proportional? What is k? Write the equation."
+    }
+  ],
+  "outro": "Example, non-example, sort, check. Now plan your own."
+}

@@ -1,0 +1,45 @@
+{
+  "grade": 7,
+  "subject": "science",
+  "topic": "food-webs",
+  "teacher": "Ms. Johnson",
+  "intro": "Hi, I'm Ms. Johnson, 7th grade science. Let's plan a lesson on food webs and how energy moves through an ecosystem.",
+  "beats": [
+    {
+      "field": "title",
+      "narration": "The title tells students what to track: the energy.",
+      "text": "Follow the Energy: Food Webs"
+    },
+    {
+      "field": "standard",
+      "narration": "This standard is about modeling how matter cycles and energy flows among living and non-living parts of an ecosystem.",
+      "text": "MS-LS2-3"
+    },
+    {
+      "field": "objective",
+      "narration": "\"Trace\" means they have to follow the arrows, not just draw them.",
+      "text": "Students will be able to build a food web model and trace how energy flows from producers to consumers and decomposers."
+    },
+    {
+      "field": "warmUp",
+      "narration": "Almost every chain leads back to the sun, which is a powerful realization.",
+      "text": "\"You ate lunch today. Where did that energy originally come from?\" Students trace it back as far as they can."
+    },
+    {
+      "field": "instruction",
+      "narration": "Arrow direction is the most common error, so I emphasize it heavily.",
+      "text": "Model a simple food chain, then connect it into a web. Emphasize that arrows point in the direction energy flows, from the eaten to the eater. Introduce the 10% rule with a pyramid."
+    },
+    {
+      "field": "activity",
+      "narration": "The yarn web shows interconnection in a way a drawing can't.",
+      "text": "Yarn web: each student is an organism card. Pass yarn to connect who eats whom. Then \"remove\" one organism and see who is affected."
+    },
+    {
+      "field": "exitTicket",
+      "narration": "The \"what if\" question checks understanding of producers as the energy base.",
+      "text": "Draw a food web with at least 5 organisms. What would happen to the web if the producers disappeared?"
+    }
+  ],
+  "outro": "Personal hook, model, physical web, prediction. Your turn."
+}

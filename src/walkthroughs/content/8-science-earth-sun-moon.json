@@ -1,0 +1,45 @@
+{
+  "grade": 8,
+  "subject": "science",
+  "topic": "earth-sun-moon",
+  "teacher": "Mr. Nakamura",
+  "intro": "I'm Mr. Nakamura. Let's plan a modeling lesson on moon phases.",
+  "beats": [
+    {
+      "field": "title",
+      "narration": "Everyone has wondered this, so it makes a great driving question.",
+      "text": "Why Does the Moon Change Shape?"
+    },
+    {
+      "field": "standard",
+      "narration": "This standard asks students to develop a model of the Earth-sun-moon system to explain phases, eclipses, and seasons.",
+      "text": "MS-ESS1-1"
+    },
+    {
+      "field": "objective",
+      "narration": "I focus on phases today; eclipses and seasons come next.",
+      "text": "Students will be able to use a physical model to explain that moon phases are caused by the changing positions of the moon relative to the Earth and sun."
+    },
+    {
+      "field": "warmUp",
+      "narration": "Surfacing the shadow misconception early lets us test it directly.",
+      "text": "Students draw what they think causes moon phases. Most will draw Earth's shadow."
+    },
+    {
+      "field": "instruction",
+      "narration": "The key idea is \"half is always lit,\" so I say it several times.",
+      "text": "Darken the room with one lamp as the sun. Model how half the moon is always lit, but we see different amounts of that lit half depending on where the moon is in its orbit."
+    },
+    {
+      "field": "activity",
+      "narration": "Every student sees the phases with their own eyes.",
+      "text": "Each student holds a foam ball (the moon) on a pencil, stands as Earth, and rotates around the lamp, sketching the phase they see at 8 positions."
+    },
+    {
+      "field": "exitTicket",
+      "narration": "Revising their own misconception is powerful.",
+      "text": "Revise your first drawing. Explain why it's not Earth's shadow that causes phases."
+    }
+  ],
+  "outro": "Misconception, model, experience, revise. Your turn."
+}

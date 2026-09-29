@@ -1,0 +1,45 @@
+{
+  "grade": 8,
+  "subject": "language",
+  "topic": "evaluating-arguments",
+  "teacher": "Ms. Kim",
+  "intro": "Ms. Kim here. Let's plan a lesson on evaluating whether an argument is sound.",
+  "beats": [
+    {
+      "field": "title",
+      "narration": "Advertisements are a great, relatable entry point.",
+      "text": "Buyer Beware: Evaluating Arguments"
+    },
+    {
+      "field": "standard",
+      "narration": "This standard asks students to evaluate an argument and whether its reasoning and evidence are sound.",
+      "text": "RI.8.8"
+    },
+    {
+      "field": "objective",
+      "narration": "\"Relevant and sufficient\" are the key words from the standard.",
+      "text": "Students will be able to evaluate an argument by determining whether its evidence is relevant and sufficient and identifying irrelevant evidence."
+    },
+    {
+      "field": "warmUp",
+      "narration": "Students are experts at being skeptical of ads.",
+      "text": "Show two product ads. \"Which one makes a stronger argument? Why?\""
+    },
+    {
+      "field": "instruction",
+      "narration": "Finding irrelevant evidence is the hardest part, so I model it.",
+      "text": "Model evaluating an op-ed: identify the claim, list the evidence, and ask of each piece: Is it relevant? Is there enough? Point out one piece of irrelevant evidence."
+    },
+    {
+      "field": "activity",
+      "narration": "Comparing two arguments makes the evaluation more meaningful.",
+      "text": "Groups evaluate two op-eds on the same topic using a rubric (relevant, sufficient, credible) and decide which is stronger."
+    },
+    {
+      "field": "exitTicket",
+      "narration": "This checks the most challenging skill.",
+      "text": "Identify one piece of evidence in today's op-ed that is weak or irrelevant, and explain why."
+    }
+  ],
+  "outro": "Ads, model, compare, evaluate. Your turn."
+}

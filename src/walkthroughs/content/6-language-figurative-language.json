@@ -1,0 +1,45 @@
+{
+  "grade": 6,
+  "subject": "language",
+  "topic": "figurative-language",
+  "teacher": "Ms. Alvarez",
+  "intro": "I'm Ms. Alvarez. Let's plan a lesson on figurative language that goes past just identifying similes.",
+  "beats": [
+    {
+      "field": "title",
+      "narration": "The title hints that figurative language means more than its literal words.",
+      "text": "More Than Words: Figurative Language"
+    },
+    {
+      "field": "standard",
+      "narration": "This standard asks students to determine the meaning of figurative language and its impact on meaning and tone.",
+      "text": "RL.6.4"
+    },
+    {
+      "field": "objective",
+      "narration": "\"What each reveals\" is the key, and it goes beyond just identifying.",
+      "text": "Students will be able to identify similes, metaphors, and personification and explain what each reveals about a character or setting."
+    },
+    {
+      "field": "warmUp",
+      "narration": "Pop songs are full of figurative language students already know.",
+      "text": "Play a song clip with a strong metaphor (e.g., \"Firework\" by Katy Perry). \"Is she really a firework? What does she mean?\""
+    },
+    {
+      "field": "instruction",
+      "narration": "The third column is where the thinking happens.",
+      "text": "Define each type with an example from the anchor text. Model a three-column chart: quote, type, and what it really means or reveals."
+    },
+    {
+      "field": "activity",
+      "narration": "Drawing the literal meaning is funny and memorable.",
+      "text": "Groups hunt through a short story for figurative language, fill in the chart, then choose one example and illustrate its literal vs. figurative meaning."
+    },
+    {
+      "field": "exitTicket",
+      "narration": "This checks identification and interpretation together.",
+      "text": "Find one example of figurative language in the story. What type is it, and what does it reveal about the character?"
+    }
+  ],
+  "outro": "Song, model, hunt, illustrate. Your turn."
+}

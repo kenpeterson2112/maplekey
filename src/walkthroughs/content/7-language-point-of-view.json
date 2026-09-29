@@ -1,0 +1,45 @@
+{
+  "grade": 7,
+  "subject": "language",
+  "topic": "point-of-view",
+  "teacher": "Mr. Brooks",
+  "intro": "Mr. Brooks here. Let's plan a lesson on how point of view shapes a story.",
+  "beats": [
+    {
+      "field": "title",
+      "narration": "The title asks the question at the center of the lesson.",
+      "text": "Whose Story Is It? Point of View"
+    },
+    {
+      "field": "standard",
+      "narration": "This standard asks students to analyze how an author develops and contrasts characters' points of view.",
+      "text": "RL.7.6"
+    },
+    {
+      "field": "objective",
+      "narration": "Retelling from a new perspective is the best way to see point of view.",
+      "text": "Students will be able to analyze how a story changes when told from a different character's point of view."
+    },
+    {
+      "field": "warmUp",
+      "narration": "A picture book is a quick, engaging hook, even in 7th grade.",
+      "text": "Read \"The True Story of the 3 Little Pigs\" (told by the wolf). \"Does the wolf's version change how you feel about him?\""
+    },
+    {
+      "field": "instruction",
+      "narration": "The live rewrite shows exactly how point of view changes what we know.",
+      "text": "Model first- vs. third-person narration and limited vs. omniscient. Rewrite one paragraph from the class novel from a different character's view."
+    },
+    {
+      "field": "activity",
+      "narration": "The explanation paragraph is where the analysis happens.",
+      "text": "Students choose a scene from the class novel and rewrite it from another character's point of view, then write a paragraph explaining what changed."
+    },
+    {
+      "field": "exitTicket",
+      "narration": "This checks analysis, not just identification.",
+      "text": "How would the story change if it were told by a different character? Give one specific example."
+    }
+  ],
+  "outro": "Picture book, model, rewrite, reflect. Your turn."
+}

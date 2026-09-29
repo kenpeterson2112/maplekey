@@ -1,0 +1,45 @@
+{
+  "grade": 8,
+  "subject": "math",
+  "topic": "linear-functions",
+  "teacher": "Ms. Chen",
+  "intro": "I'm Ms. Chen, 8th grade math. Let's plan a lesson on linear functions that focuses on what slope and y-intercept mean.",
+  "beats": [
+    {
+      "field": "title",
+      "narration": "I name the concepts in plain language before the formal vocabulary.",
+      "text": "Rate of Change & Starting Point"
+    },
+    {
+      "field": "standard",
+      "narration": "This standard asks students to construct a function and interpret rate of change and initial value.",
+      "text": "8.F.B.4"
+    },
+    {
+      "field": "objective",
+      "narration": "Three representations and interpretation, which is the heart of 8.F.B.4.",
+      "text": "Students will be able to write a linear function from a context, a table, or a graph and interpret the slope and y-intercept in context."
+    },
+    {
+      "field": "warmUp",
+      "narration": "Students interpret before calculating, which frames the whole lesson.",
+      "text": "Show a graph of a phone battery draining. \"What was the charge at the start? How fast is it dropping?\" Students discuss with a partner."
+    },
+    {
+      "field": "instruction",
+      "narration": "The translation sentence is something I'll ask for all year.",
+      "text": "Model finding the rate of change from two points and the initial value from the graph. Write y = −8x + 100 and translate: \"starts at 100%, loses 8% per hour.\""
+    },
+    {
+      "field": "activity",
+      "narration": "Every group reaches the same function from a different starting point, which makes the connections visible.",
+      "text": "Taxi fare task: groups get one representation (a story, table, or graph) of a fare and must build the other two plus the equation, then present."
+    },
+    {
+      "field": "exitTicket",
+      "narration": "The interpretation question is the real check.",
+      "text": "A plant is 4 cm tall and grows 1.5 cm per week. Write the function. What do 4 and 1.5 mean?"
+    }
+  ],
+  "outro": "Interpret, model, connect representations, check. Now it's yours."
+}

@@ -1,0 +1,45 @@
+{
+  "grade": 6,
+  "subject": "math",
+  "topic": "ratios",
+  "teacher": "Ms. Rivera",
+  "intro": "Hi! I'm Ms. Rivera. Let's plan a 6th grade lesson on ratios — I'll talk you through each choice as I go.",
+  "beats": [
+    {
+      "field": "title",
+      "narration": "I like titles that hint at the real-world hook. Kids remember \"the recipe lesson.\"",
+      "text": "Recipes, Ratios & Rates"
+    },
+    {
+      "field": "standard",
+      "narration": "I anchor to the standard first so every section has something to line up against.",
+      "text": "6.RP.A.1"
+    },
+    {
+      "field": "objective",
+      "narration": "My objective is observable: I can hear it and see it on paper by the end of class.",
+      "text": "Students will be able to use ratio language to describe the relationship between two quantities and write ratios three ways (a:b, a to b, a/b)."
+    },
+    {
+      "field": "warmUp",
+      "narration": "The warm-up surfaces the idea of \"keeping it the same\" before I ever say the word ratio.",
+      "text": "Show a photo of a lemonade recipe (3 cups water, 1 cup lemon juice). Ask: \"If I want to make a bigger batch that tastes the same, what has to stay the same?\" Turn and talk for 2 minutes."
+    },
+    {
+      "field": "instruction",
+      "narration": "I model with something in the room so the ratios are about things they can count right now.",
+      "text": "Model ratio language with the class seating chart: \"For every 2 students at a window seat, there are 5 at an inside seat.\" Write it as 2:5, 2 to 5, and 2/5. Contrast part-to-part vs. part-to-whole."
+    },
+    {
+      "field": "activity",
+      "narration": "Swapping bags builds in peer checking, so I can circulate and listen instead of grading everything.",
+      "text": "In pairs, students sort a bag of colored tiles and write four ratio statements about it — at least one part-to-whole. Partners swap bags and check each other's statements."
+    },
+    {
+      "field": "exitTicket",
+      "narration": "The exit ticket mirrors the objective exactly, so tomorrow I know who to pull into a small group.",
+      "text": "A class has 12 girls and 15 boys. Write the ratio of girls to boys and of boys to all students. Explain which one is part-to-whole."
+    }
+  ],
+  "outro": "That's the whole plan — objective, hook, modeling, practice, and a quick check. Now it's your turn."
+}

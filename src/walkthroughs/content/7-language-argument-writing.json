@@ -1,0 +1,45 @@
+{
+  "grade": 7,
+  "subject": "language",
+  "topic": "argument-writing",
+  "teacher": "Mr. Brooks",
+  "intro": "I'm Mr. Brooks, 7th grade ELA. Let's plan an argument writing lesson on claims and evidence.",
+  "beats": [
+    {
+      "field": "title",
+      "narration": "The title makes it feel like a debate, which is exactly the energy I want.",
+      "text": "Make Your Case: Claims & Evidence"
+    },
+    {
+      "field": "standard",
+      "narration": "This standard asks students to write arguments supporting claims with clear reasons and relevant evidence.",
+      "text": "W.7.1"
+    },
+    {
+      "field": "objective",
+      "narration": "Claim plus reasons plus evidence is the basic structure.",
+      "text": "Students will be able to write a clear claim and support it with two reasons and relevant evidence."
+    },
+    {
+      "field": "warmUp",
+      "narration": "Physically taking a side makes the claim concrete.",
+      "text": "Four corners: \"Should school start later?\" Students move to Strongly Agree, Agree, Disagree, or Strongly Disagree and share one reason."
+    },
+    {
+      "field": "instruction",
+      "narration": "The weak vs. strong comparison is the key teaching point.",
+      "text": "Model the difference between a claim, a reason, and evidence using the school start topic. Show weak vs. strong evidence (opinion vs. statistic)."
+    },
+    {
+      "field": "activity",
+      "narration": "Reading articles gives them real evidence to use.",
+      "text": "Students read two short articles on the topic and complete a claim-reasons-evidence organizer, then write a body paragraph."
+    },
+    {
+      "field": "exitTicket",
+      "narration": "A focused check on the core structure.",
+      "text": "Write your claim and one reason with evidence from the articles."
+    }
+  ],
+  "outro": "Debate, model, research, write. Now it's your turn."
+}

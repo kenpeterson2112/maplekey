@@ -1,0 +1,45 @@
+{
+  "grade": 7,
+  "subject": "math",
+  "topic": "probability",
+  "teacher": "Mr. Okafor",
+  "intro": "I'm Mr. Okafor. Let's plan an introduction to probability for 7th graders — it's all about chance.",
+  "beats": [
+    {
+      "field": "title",
+      "narration": "The title sets up the likelihood scale we'll build together.",
+      "text": "Likely or Not? Intro to Probability"
+    },
+    {
+      "field": "standard",
+      "narration": "This standard is about understanding probability as a number from 0 to 1.",
+      "text": "7.SP.C.5"
+    },
+    {
+      "field": "objective",
+      "narration": "Connecting numbers with words builds intuition.",
+      "text": "Students will be able to express the probability of an event as a number between 0 and 1 and describe its likelihood (impossible, unlikely, equally likely, likely, certain)."
+    },
+    {
+      "field": "warmUp",
+      "narration": "Moving around gets energy up and makes the scale physical.",
+      "text": "Human number line: students stand along a 0-to-1 line for prompts like \"It will snow tomorrow\" or \"You'll have homework this week.\""
+    },
+    {
+      "field": "instruction",
+      "narration": "I use two concrete tools so students see the idea works across contexts.",
+      "text": "Formalize probability as favorable outcomes over total outcomes. Model with a spinner and a bag of marbles. Place each probability on the likelihood line."
+    },
+    {
+      "field": "activity",
+      "narration": "Designing works backward from the probability, which requires deeper understanding.",
+      "text": "Groups design a spinner or marble bag to match a target probability card (e.g., \"likely but not certain\" or \"exactly 1/4\") and trade to verify."
+    },
+    {
+      "field": "exitTicket",
+      "narration": "Checks both the number and the word, matching the objective.",
+      "text": "A bag has 3 red, 5 blue, and 2 green marbles. What is P(blue)? Is it likely, unlikely, or equally likely?"
+    }
+  ],
+  "outro": "Physical scale, formal definition, design task. Your turn to plan."
+}

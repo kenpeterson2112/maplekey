@@ -1,0 +1,45 @@
+{
+  "grade": 6,
+  "subject": "math",
+  "topic": "measures-of-center",
+  "teacher": "Ms. Rivera",
+  "intro": "Hi, I'm Ms. Rivera. Let's plan a 6th grade lesson on measures of center using data the students collect themselves.",
+  "beats": [
+    {
+      "field": "title",
+      "narration": "The big question is \"what's typical?\" — mean and median are two ways to answer it.",
+      "text": "What's Typical? Mean & Median"
+    },
+    {
+      "field": "standard",
+      "narration": "This standard is about recognizing that a single number can summarize a whole data set.",
+      "text": "6.SP.A.3"
+    },
+    {
+      "field": "objective",
+      "narration": "The \"which is better\" part pushes past calculating into reasoning.",
+      "text": "Students will be able to calculate the mean and median of a data set and explain which better represents the data when there are outliers."
+    },
+    {
+      "field": "warmUp",
+      "narration": "Their own data makes them care about the answer.",
+      "text": "Each student writes how many minutes it took to get to school. Collect them on sticky notes on a number line on the board."
+    },
+    {
+      "field": "instruction",
+      "narration": "Adding an outlier live shows why the mean moves and the median doesn't, better than any definition.",
+      "text": "Find the median by ordering the sticky notes and the mean with the leveling-out idea using stacks of cubes. Then add one outlier (a 90-minute commute) and recompute both."
+    },
+    {
+      "field": "activity",
+      "narration": "Different data sets lead to different \"best\" answers, which sparks good debate in the gallery walk.",
+      "text": "Groups get data cards (house prices, test scores, shoe sizes). They find both measures, decide which is more representative, and justify it on a mini poster."
+    },
+    {
+      "field": "exitTicket",
+      "narration": "The outlier is obvious on purpose; I want to see the reasoning, not a hard calculation.",
+      "text": "Data: 2, 3, 3, 4, 28. Find the mean and median. Which better describes a typical value? Why?"
+    }
+  ],
+  "outro": "Real data, a live outlier, and a justification. Your turn to plan."
+}

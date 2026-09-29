@@ -1,0 +1,45 @@
+{
+  "grade": 7,
+  "subject": "science",
+  "topic": "body-systems",
+  "teacher": "Ms. Johnson",
+  "intro": "I'm Ms. Johnson. Let's plan a 7th grade lesson on how body systems work together.",
+  "beats": [
+    {
+      "field": "title",
+      "narration": "Framing systems as a team emphasizes that they interact.",
+      "text": "Team Body: How Systems Interact"
+    },
+    {
+      "field": "standard",
+      "narration": "This standard asks students to argue that the body is made of interacting subsystems.",
+      "text": "MS-LS1-3"
+    },
+    {
+      "field": "objective",
+      "narration": "Exercise is a function that clearly needs several systems at once.",
+      "text": "Students will be able to explain how at least three body systems interact to perform a function, using exercise as an example."
+    },
+    {
+      "field": "warmUp",
+      "narration": "Getting up and moving gives them first-hand data.",
+      "text": "Students do 30 seconds of jumping jacks, then list every change they notice in their bodies."
+    },
+    {
+      "field": "instruction",
+      "narration": "Their own observations drive the content.",
+      "text": "Map their observations to systems: breathing (respiratory), heart rate (circulatory), sweating (integumentary), muscle burn (muscular). Draw the connections between systems on the board."
+    },
+    {
+      "field": "activity",
+      "narration": "Different scenarios show different combinations of systems.",
+      "text": "Groups get a scenario (eating a meal, running from danger, getting a cut) and build a flowchart showing which systems interact and how."
+    },
+    {
+      "field": "exitTicket",
+      "narration": "This checks the core idea of interaction.",
+      "text": "Pick one scenario and explain how two systems depend on each other."
+    }
+  ],
+  "outro": "Move, observe, connect, explain. Now plan yours."
+}

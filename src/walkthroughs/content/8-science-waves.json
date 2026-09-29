@@ -1,0 +1,45 @@
+{
+  "grade": 8,
+  "subject": "science",
+  "topic": "waves",
+  "teacher": "Mr. Nakamura",
+  "intro": "Mr. Nakamura here. Let's plan an 8th grade lesson on wave properties and energy.",
+  "beats": [
+    {
+      "field": "title",
+      "narration": "The title names the relationship we're investigating.",
+      "text": "Making Waves: Amplitude & Energy"
+    },
+    {
+      "field": "standard",
+      "narration": "This standard asks students to use math to describe how a wave's amplitude relates to its energy.",
+      "text": "MS-PS4-1"
+    },
+    {
+      "field": "objective",
+      "narration": "The vocabulary supports the bigger idea: the energy relationship.",
+      "text": "Students will be able to identify the amplitude, wavelength, and frequency of a wave and describe how amplitude relates to the energy the wave carries."
+    },
+    {
+      "field": "warmUp",
+      "narration": "The ripples in the water make sound waves visible.",
+      "text": "Play a quiet sound and then a loud one through a speaker with a paper cup of water on top. \"What changed?\""
+    },
+    {
+      "field": "instruction",
+      "narration": "The simulator lets me change one variable at a time cleanly.",
+      "text": "Model wave parts with a slinky and a labeled diagram. Show that a bigger shake means a bigger amplitude and more energy. Use a wave simulator to change one property at a time."
+    },
+    {
+      "field": "activity",
+      "narration": "Feeling the extra effort connects amplitude to energy in their own muscles.",
+      "text": "Pairs use a rope or slinky to make waves of different amplitudes and frequencies, measure them with a meter stick, and record how much effort each took."
+    },
+    {
+      "field": "exitTicket",
+      "narration": "This checks the core relationship directly.",
+      "text": "Two waves have the same wavelength, but wave A has twice the amplitude of wave B. Which carries more energy? Explain."
+    }
+  ],
+  "outro": "See it, model it, feel it, explain it. Now plan yours."
+}

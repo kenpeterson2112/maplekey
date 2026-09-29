@@ -1,0 +1,45 @@
+{
+  "grade": 8,
+  "subject": "language",
+  "topic": "research",
+  "teacher": "Ms. Kim",
+  "intro": "Ms. Kim here. Let's plan an 8th grade lesson on finding and evaluating credible sources.",
+  "beats": [
+    {
+      "field": "title",
+      "narration": "The title is the question students should ask of every source.",
+      "text": "Can You Trust It? Evaluating Sources"
+    },
+    {
+      "field": "standard",
+      "narration": "This standard asks students to gather information from multiple sources and assess their credibility.",
+      "text": "W.8.8"
+    },
+    {
+      "field": "objective",
+      "narration": "Four criteria give them a practical checklist.",
+      "text": "Students will be able to evaluate the credibility of online sources using the author, date, purpose, and evidence."
+    },
+    {
+      "field": "warmUp",
+      "narration": "Most students fall for it, which makes a strong point.",
+      "text": "Show a convincing fake website (for example, the \"Pacific Northwest Tree Octopus\"). \"Is this real? How can you tell?\""
+    },
+    {
+      "field": "instruction",
+      "narration": "Lateral reading is what professional fact-checkers actually do.",
+      "text": "Model checking a source for author credentials, publication date, purpose (inform or persuade/sell), and evidence. Show lateral reading: opening a new tab to check what others say about the source."
+    },
+    {
+      "field": "activity",
+      "narration": "Ranking forces nuanced judgment.",
+      "text": "Groups get a research question and five sources of varying quality. They rank the sources by credibility and justify each ranking."
+    },
+    {
+      "field": "exitTicket",
+      "narration": "This checks the application of the criteria.",
+      "text": "Pick one source from today. Is it credible? Use at least two criteria to explain."
+    }
+  ],
+  "outro": "Fake site, model, rank, justify. Your turn to plan."
+}

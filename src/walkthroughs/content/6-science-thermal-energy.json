@@ -1,0 +1,45 @@
+{
+  "grade": 6,
+  "subject": "science",
+  "topic": "thermal-energy",
+  "teacher": "Mr. Patel",
+  "intro": "I'm Mr. Patel. Let's plan an engineering-focused 6th grade lesson on thermal energy transfer.",
+  "beats": [
+    {
+      "field": "title",
+      "narration": "An engineering challenge title tells students they'll be building something.",
+      "text": "Keep It Cold: Designing Insulators"
+    },
+    {
+      "field": "standard",
+      "narration": "This standard asks students to design a device that minimizes or maximizes thermal energy transfer.",
+      "text": "MS-PS3-3"
+    },
+    {
+      "field": "objective",
+      "narration": "Design, test, improve is the engineering cycle; explaining ties it back to the science.",
+      "text": "Students will be able to design, test, and improve a device that minimizes thermal energy transfer, explaining how it reduces conduction, convection, and radiation."
+    },
+    {
+      "field": "warmUp",
+      "narration": "This common misconception sets up the idea of conduction.",
+      "text": "\"Why does a metal bench feel colder than a wooden one on the same day?\" Students discuss."
+    },
+    {
+      "field": "instruction",
+      "narration": "Three quick demos, one for each concept.",
+      "text": "Model the three types of heat transfer with quick demos: a metal spoon in hot water (conduction), food coloring in warm water (convection), and a lamp on skin (radiation)."
+    },
+    {
+      "field": "activity",
+      "narration": "The materials limit forces tradeoffs, which is what real engineering is about.",
+      "text": "Challenge: with limited materials (foil, felt, bubble wrap, cardboard), groups design a container to keep an ice cube from melting for 30 minutes. Test, measure the meltwater, and redesign."
+    },
+    {
+      "field": "exitTicket",
+      "narration": "This connects their design back to the science concept.",
+      "text": "Which material worked best in your design? Explain using at least one type of heat transfer."
+    }
+  ],
+  "outro": "Misconception, demos, design challenge. Now you plan one."
+}

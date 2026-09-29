@@ -1,0 +1,45 @@
+{
+  "grade": 6,
+  "subject": "science",
+  "topic": "weather",
+  "teacher": "Mr. Patel",
+  "intro": "Mr. Patel here. Let's plan a lesson on why weather changes when air masses meet.",
+  "beats": [
+    {
+      "field": "title",
+      "narration": "A dramatic title for a dramatic topic, since this is where storms come from.",
+      "text": "Clash of the Air Masses"
+    },
+    {
+      "field": "standard",
+      "narration": "This standard is about how the motion and interaction of air masses cause changes in weather.",
+      "text": "MS-ESS2-5"
+    },
+    {
+      "field": "objective",
+      "narration": "Focused on cause and effect, since that's the core of this standard.",
+      "text": "Students will be able to explain how the interaction of warm and cold air masses at a front causes changes in weather conditions."
+    },
+    {
+      "field": "warmUp",
+      "narration": "Using a local recent map makes it feel real.",
+      "text": "Show a weather map from last week with a cold front. \"What do you predict happened to the weather here as the front passed?\""
+    },
+    {
+      "field": "instruction",
+      "narration": "The tank demo makes something invisible visible.",
+      "text": "Demo with a divided tank of warm (red) and cold (blue) water: remove the divider and watch the cold water slide under. Connect to cold fronts lifting warm air, which cools and forms clouds."
+    },
+    {
+      "field": "activity",
+      "narration": "Real data practice is what the standard actually asks for.",
+      "text": "Groups analyze three days of real weather data (temperature, pressure, wind, precipitation) and identify when a front passed, citing data."
+    },
+    {
+      "field": "exitTicket",
+      "narration": "The required words check the mechanism, not just the result.",
+      "text": "Explain what happens to the weather when a cold front passes, using the words \"dense,\" \"rises,\" and \"condenses.\""
+    }
+  ],
+  "outro": "Map, demo, real data. Your turn to plan."
+}

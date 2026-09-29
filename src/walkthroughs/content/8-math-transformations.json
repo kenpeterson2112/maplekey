@@ -1,0 +1,45 @@
+{
+  "grade": 8,
+  "subject": "math",
+  "topic": "transformations",
+  "teacher": "Ms. Chen",
+  "intro": "I'm Ms. Chen. Let's plan an 8th grade lesson on rigid transformations.",
+  "beats": [
+    {
+      "field": "title",
+      "narration": "Informal names first, then the formal vocabulary.",
+      "text": "Slide, Flip, Turn: Rigid Transformations"
+    },
+    {
+      "field": "standard",
+      "narration": "This standard is about verifying the properties of rotations, reflections, and translations.",
+      "text": "8.G.A.1"
+    },
+    {
+      "field": "objective",
+      "narration": "\"Verify\" is the key verb in the standard, so it's the key verb here too.",
+      "text": "Students will be able to perform translations, reflections, and rotations on the coordinate plane and verify that lengths and angles are preserved."
+    },
+    {
+      "field": "warmUp",
+      "narration": "Patterns in art get students thinking about transformations before any vocabulary.",
+      "text": "Show a quilt pattern and ask: \"How could you describe moving one tile to create the whole pattern?\""
+    },
+    {
+      "field": "instruction",
+      "narration": "Patty paper makes the motion physical; measuring each time builds the idea of \"rigid.\"",
+      "text": "Model each transformation with patty paper on a coordinate grid. After each one, measure a side and an angle before and after to show they match."
+    },
+    {
+      "field": "activity",
+      "narration": "Swapping makes the rules a communication tool, not just a procedure.",
+      "text": "Pairs create a design by transforming a shape three times, record the coordinate rules, and swap with another pair who must identify each transformation."
+    },
+    {
+      "field": "exitTicket",
+      "narration": "The \"what stayed the same\" question checks the verification part.",
+      "text": "Reflect triangle A(1,2), B(4,2), C(1,5) over the y-axis. List the new coordinates. What stayed the same?"
+    }
+  ],
+  "outro": "Art, hands-on modeling, design, check. Your turn to plan."
+}

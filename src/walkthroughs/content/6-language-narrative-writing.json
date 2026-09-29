@@ -1,0 +1,45 @@
+{
+  "grade": 6,
+  "subject": "language",
+  "topic": "narrative-writing",
+  "teacher": "Ms. Alvarez",
+  "intro": "Ms. Alvarez here. Let's plan a narrative writing lesson focused on story structure.",
+  "beats": [
+    {
+      "field": "title",
+      "narration": "The story mountain is the visual organizer for the whole unit.",
+      "text": "Building a Story Mountain"
+    },
+    {
+      "field": "standard",
+      "narration": "This standard asks students to write narratives with well-structured event sequences.",
+      "text": "W.6.3"
+    },
+    {
+      "field": "objective",
+      "narration": "Today is planning; drafting comes tomorrow.",
+      "text": "Students will be able to plan a personal narrative using a story mountain with a clear beginning, rising action, climax, and resolution."
+    },
+    {
+      "field": "warmUp",
+      "narration": "The quick-write generates story ideas they can use.",
+      "text": "Quick-write: \"Write about a time something didn't go as planned.\" 5 minutes, no stopping."
+    },
+    {
+      "field": "instruction",
+      "narration": "Plotting my own story shows vulnerability and a real model.",
+      "text": "Model plotting a story mountain from a short mentor text, then plot one of my own stories live. Show how the climax is the moment of highest tension."
+    },
+    {
+      "field": "activity",
+      "narration": "Telling it aloud reveals gaps before they write.",
+      "text": "Students plot their quick-write story on a story mountain, then tell it aloud to a partner, who identifies the climax."
+    },
+    {
+      "field": "exitTicket",
+      "narration": "The planning document becomes the check.",
+      "text": "Turn in your story mountain with each section filled in and your climax starred."
+    }
+  ],
+  "outro": "Quick-write, model, plan, share. Now you plan."
+}

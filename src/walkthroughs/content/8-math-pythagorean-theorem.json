@@ -1,0 +1,45 @@
+{
+  "grade": 8,
+  "subject": "math",
+  "topic": "pythagorean-theorem",
+  "teacher": "Ms. Chen",
+  "intro": "Ms. Chen again. Let's plan an 8th grade lesson that applies the Pythagorean theorem to real-world problems.",
+  "beats": [
+    {
+      "field": "title",
+      "narration": "The title promises real-world use, which answers \"when will we ever use this?\"",
+      "text": "Missing Sides: Pythagoras in the Real World"
+    },
+    {
+      "field": "standard",
+      "narration": "This standard is about applying the theorem to find unknown side lengths in real-world problems.",
+      "text": "8.G.B.7"
+    },
+    {
+      "field": "objective",
+      "narration": "Focused on application, since they proved the theorem earlier in the unit.",
+      "text": "Students will be able to apply the Pythagorean theorem to find a missing side length of a right triangle in real-world and two-dimensional contexts."
+    },
+    {
+      "field": "warmUp",
+      "narration": "Most students don't know TVs are measured on the diagonal, so it's a great surprise.",
+      "text": "\"Will a 55-inch TV fit on a 48-inch wide entertainment center?\" Students discuss what \"55-inch\" actually measures."
+    },
+    {
+      "field": "instruction",
+      "narration": "Finding a leg is the step where students most often add instead of subtract, so I model it on purpose.",
+      "text": "Model identifying the right triangle and the hypotenuse in a picture, then solve the TV problem. Do a second example finding a leg (a ladder against a wall)."
+    },
+    {
+      "field": "activity",
+      "narration": "Measuring to check shows the theorem really works.",
+      "text": "Around-the-school measuring: groups measure two sides of real right triangles (a ramp, a door diagonal) with tape measures, calculate the third, then measure to check."
+    },
+    {
+      "field": "exitTicket",
+      "narration": "This finds a leg, which is the trickier case.",
+      "text": "A 13-foot ladder reaches 12 feet up a wall. How far is the base from the wall? Show your work."
+    }
+  ],
+  "outro": "A hook that surprises, two models, real measurement. Your turn."
+}

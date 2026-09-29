@@ -1,0 +1,45 @@
+{
+  "grade": 8,
+  "subject": "math",
+  "topic": "systems-of-equations",
+  "teacher": "Ms. Chen",
+  "intro": "I'm Ms. Chen. Systems of equations can feel abstract, so let's plan a lesson where the solution means something.",
+  "beats": [
+    {
+      "field": "title",
+      "narration": "The solution to a system is where two things meet, so the title asks that.",
+      "text": "When Do They Meet? Systems of Equations"
+    },
+    {
+      "field": "standard",
+      "narration": "This standard covers solving systems of two linear equations, starting with graphing.",
+      "text": "8.EE.C.8"
+    },
+    {
+      "field": "objective",
+      "narration": "Graphing first builds the visual meaning before algebraic methods.",
+      "text": "Students will be able to solve a system of two linear equations by graphing and interpret the point of intersection in context."
+    },
+    {
+      "field": "warmUp",
+      "narration": "The honest answer is \"it depends,\" which leads straight to the intersection.",
+      "text": "Two gyms: Gym A costs $30/month; Gym B costs $50 to join plus $20/month. \"Which is the better deal?\" Students vote and explain."
+    },
+    {
+      "field": "instruction",
+      "narration": "Interpreting the regions on each side of the intersection is where students really get it.",
+      "text": "Graph both plans on one grid. Find where they intersect at (5, 150) and interpret: after 5 months, both cost $150. Discuss what happens before and after that point."
+    },
+    {
+      "field": "activity",
+      "narration": "Writing a recommendation requires them to explain the intersection in plain words.",
+      "text": "Groups solve three \"which is the better deal\" scenarios by graphing and write a recommendation for a customer."
+    },
+    {
+      "field": "exitTicket",
+      "narration": "Checking in both equations reinforces what a solution to a system means.",
+      "text": "Graph y = 2x + 1 and y = −x + 7. What is the solution? Check it in both equations."
+    }
+  ],
+  "outro": "A real decision, a graph, and a recommendation. Now plan yours."
+}

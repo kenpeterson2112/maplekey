@@ -1,0 +1,45 @@
+{
+  "grade": 6,
+  "subject": "language",
+  "topic": "text-evidence",
+  "teacher": "Ms. Alvarez",
+  "intro": "Hi, I'm Ms. Alvarez, 6th grade ELA. Let's plan a lesson on citing text evidence — the skill that shows up in every other lesson.",
+  "beats": [
+    {
+      "field": "title",
+      "narration": "\"Prove it\" is what I say all year, so it becomes the title.",
+      "text": "Prove It! Citing Text Evidence"
+    },
+    {
+      "field": "standard",
+      "narration": "This standard asks students to cite evidence that supports analysis of what the text says explicitly and what it implies.",
+      "text": "RL.6.1"
+    },
+    {
+      "field": "objective",
+      "narration": "I focus on inference because that's where citing evidence really matters.",
+      "text": "Students will be able to cite specific text evidence to support an inference about a character and explain how the evidence supports it."
+    },
+    {
+      "field": "warmUp",
+      "narration": "Inferring from a picture practices the skill without the reading load.",
+      "text": "Show a photo of a messy kitchen with a half-eaten cake. \"What happened here? Prove it with details from the picture.\""
+    },
+    {
+      "field": "instruction",
+      "narration": "Thinking aloud about strong vs. weak quotes is the most valuable part.",
+      "text": "Model with a short story excerpt: make an inference about the character, find a quote, and use the sentence frame \"The text says ___, which shows ___.\" Think aloud about why some quotes are stronger than others."
+    },
+    {
+      "field": "activity",
+      "narration": "Ranking the quotes pushes them to evaluate evidence, not just find it.",
+      "text": "Partners read a new excerpt, make an inference about a character, and find two quotes. They rank their quotes from strongest to weakest and justify the ranking."
+    },
+    {
+      "field": "exitTicket",
+      "narration": "The sentence frame keeps the check focused on the skill.",
+      "text": "Write one inference about the character in today's story and support it with a quote using the sentence frame."
+    }
+  ],
+  "outro": "Picture, model, practice, check. Now you plan yours."
+}

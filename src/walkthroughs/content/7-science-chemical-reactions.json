@@ -1,0 +1,45 @@
+{
+  "grade": 7,
+  "subject": "science",
+  "topic": "chemical-reactions",
+  "teacher": "Ms. Johnson",
+  "intro": "I'm Ms. Johnson. Let's plan a lab-based 7th grade lesson on identifying chemical reactions.",
+  "beats": [
+    {
+      "field": "title",
+      "narration": "\"New stuff\" is the kid-friendly version of \"new substances form.\"",
+      "text": "New Stuff: Evidence of Chemical Reactions"
+    },
+    {
+      "field": "standard",
+      "narration": "This standard asks students to analyze properties of substances before and after they interact.",
+      "text": "MS-PS1-2"
+    },
+    {
+      "field": "objective",
+      "narration": "The before/after comparison is the core of the standard.",
+      "text": "Students will be able to identify evidence of a chemical reaction by comparing the properties of substances before and after they interact."
+    },
+    {
+      "field": "warmUp",
+      "narration": "Familiar objects make the idea concrete.",
+      "text": "Show a rusty nail next to a new nail, and a burnt marshmallow next to a fresh one. \"Are these the same substance?\" Discuss."
+    },
+    {
+      "field": "instruction",
+      "narration": "The physical change contrast prevents over-labeling everything as a reaction.",
+      "text": "Introduce the signs of a chemical reaction: gas, color change, temperature change, precipitate, and new smell. Contrast with physical changes (melting ice, dissolving sugar)."
+    },
+    {
+      "field": "activity",
+      "narration": "Including the melting ice tests whether they apply the criteria carefully.",
+      "text": "Lab stations: baking soda + vinegar, steel wool + vinegar, milk + vinegar, and ice melting. Students record properties before and after, then classify each as chemical or physical."
+    },
+    {
+      "field": "exitTicket",
+      "narration": "Two pieces of evidence reinforces careful observation.",
+      "text": "Pick one station. Was it a chemical reaction? Give two pieces of before/after evidence."
+    }
+  ],
+  "outro": "Observe, define, test, explain. Now you plan."
+}
